@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Haxiuxiuduang
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Haxiuxiuduang/Haxiuxiuduang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I am attesting that this GitHub handle Haxiuxiu is linked to the Tezos account tz1VGH56VoDerpo9LGz2PtaM253SF2XCQ3ME for tzprofiles
+
+sig:edsigttZpysraW8mTMVyT8kdSKT8CdFCcCHNxfNUDLjKDDD2cLXRqjS79DCJKwYX2ALi3GTdnKLHNymmR8PZd862PRzuotgMUne
